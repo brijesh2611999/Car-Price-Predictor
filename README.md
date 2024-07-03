@@ -18,7 +18,7 @@ A machine learning project to predict car prices based on various features.
 
 ## Introduction
 
-The Car Price Predictor is a machine learning model designed to predict the selling price of cars based on features such as mileage, age, brand, and more. This project uses a dataset of historical car prices to train and evaluate the predictive model.
+The Car Price Predictor is a machine learning model designed to predict the selling price of cars based on features such as company, model, age, fuel type and more. This project uses a dataset of historical car prices to train and evaluate the predictive model.
 
 ## Features
 
