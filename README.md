@@ -25,7 +25,7 @@ The Car Price Predictor is a machine learning model designed to predict the sell
 - **Data Preprocessing**: Clean and prepare the dataset for training.
 - **Model Selection**: Choose and train a suitable machine learning model.
 - **Prediction**: Predict car prices based on user input.
-- **Web Interface**: Optional - Provide a simple web interface for users to input car features and get price predictions.
+- **Web Interface**: Provide a simple web interface for users to input car features and get price predictions.
 
 ## Installation
 
@@ -33,4 +33,4 @@ To run the Car Price Predictor locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-price-predictor.git
+   git clone https://github.com/brijesh2611999/car-price-predictor.git
