@@ -11,9 +11,7 @@ A machine learning project to predict car prices based on various features.
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Deployment](#deployment)
 - [Contact](#contact)
 
 ## Introduction
@@ -51,3 +49,42 @@ To run the Car Price Predictor locally, follow these steps:
    ```
    
 2. Open your web browser and go to http://localhost:5000 to use the Car Price Predictor.
+
+## Dataset
+
+The dataset used for this project contains various features of cars, including:
+
++ Company: The manufacturer of the car.
++ Model: The specific model of the car.
++ Year: The manufacturing year of the car.
++ Fuel Type: The type of fuel the car uses (e.g., Petrol, Diesel).
++ Travelled Distance: The distance in Km the car driven.
++ Price: The selling price of the car (target variable).
+
+## Model Training
+
+The model training process involves the following steps:
+
+- **Data Preprocessing**: Handle missing values, encode categorical variables, and normalize numerical features.
+- **Model Selection**: Train and evaluate machine learning models on Linear Regression.
+- **Hyperparameter Tuning**: Optimize the model parameters to improve performance.
+
+## Evaluation
+
+Evaluate the performance of the trained model using metrics such as:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R-squared (R²) score
+
+Visualize the results using plots to compare the predicted prices with the actual prices.
+
+## Deployment
+
+ Deploy the model as a web service:
+
+ ```arduino
+Replace `https://your-render-app-url` with the actual URL of your deployed application on Render.
+```
+ 
+
