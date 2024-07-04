@@ -81,10 +81,7 @@ Visualize the results using plots to compare the predicted prices with the actua
 
 ## Deployment
 
- Deploy the model as a web service:
+Deploy the model as a web service:
 
- ```arduino
-Replace `https://your-render-app-url` with the actual URL of your deployed application on Render.
-```
- 
+[Car Price Predictor on Render](https://car-price-predictor-8ikh.onrender.com/)
 
