@@ -94,7 +94,6 @@ Deploy the model as a web service:
 
 If you have any questions or suggestions, feel free to contact the project maintainer:
 
-Name: Brijesh
 - **Email**: [bv2611999@gmail.com](mailto:bv2611999@gmail.com)
 
 
