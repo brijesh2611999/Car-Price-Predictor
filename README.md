@@ -34,3 +34,14 @@ To run the Car Price Predictor locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/brijesh2611999/car-price-predictor.git
+   ```
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+3. Start the web interface:
+```bash
+python app.py
+```
+4. Open your web browser and go to http://localhost:5000 to use the Car Price Predictor.
