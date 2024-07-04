@@ -85,3 +85,13 @@ Deploy the model as a web service:
 
 [Car Price Predictor on Render](https://car-price-predictor-8ikh.onrender.com/)
 
+![Car Price Predictor Web Page](images/webpage.png)
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact the project maintainer:
+
+Name: Brijesh
+- **Email**: [bv2611999@gmail.com](mailto:bv2611999@gmail.com)
+
+
