@@ -85,7 +85,10 @@ Deploy the model as a web service:
 
 [Car Price Predictor on Render](https://car-price-predictor-8ikh.onrender.com/)
 
-<img src="demo.png" alt="Car Price Predictor Web Page" width="600"/>
+
+<div style="text-align:center">
+  <img src="demo.png" alt="Car Price Predictor Web Page" width="600"/>
+</div>
 
 ## Contact
 
